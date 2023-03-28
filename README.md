@@ -11,7 +11,7 @@ Agriculture is the primary source of livelihood for about 58 per cent of Indiaâ€
 Apart from being a huge industry, agriculture is the main source of income for about 70 crore farmers in India. It is really amazing that so many people in our country are engaged in agriculture. But what breaks our heart is the following data: 
 A total of 3,32,603 farmers (2,84,008 males and 48,595 females) committed suicide between 1995 and 2018.
 
-When searching for the primary reason for Farmer's suicides, we came across ADSI-2015 report.  What are the reasons behind these suicides? According to the ADSI-2015 report, around 19 per cent of farmers committed suicide due to crop failure due to natural calamities.
+When searching for the primary reason for Farmer's suicides, we came across ADSI-2015 report.    What are the reasons behind these suicides? According to the ADSI-2015 report, around 19 per cent of farmers committed suicide due to crop failure due to natural calamities.
 
 So, we decided that no farmer should ever die because of crop failure again and we came up with our project: An AI chatbot which predicts the best suitable crop based on the season, the farmer's geolocation and also keeps him updated with modern agricultural methods which ultimately allows him to yield maximum output.
 
