@@ -6,7 +6,7 @@
 
 ## Motivation: 
 
-Agriculture is the primary source of livelihood for about 58 per cent of India’s population. Gross Value Added by agriculture, forestry and fishing is estimated at Rs 18.55 lakh crore (US$ 265.51 billion) in FY19(PE). Hence we can definitely say Agriculture is a large industry in India.
+Agriculture is the primary source of livelihood for about 58 per cent of India’s population. Gross Value Added by agriculture, forestry and fishing is estimated at Rs 18.55 lakh crore (US$ 265.51 billion) in FY19(PE). Hence we can definitely say Agriculture is a large industry in India..
 
 Apart from being a huge industry, agriculture is the main source of income for about 70 crore farmers in India. It is really amazing that so many people in our country are engaged in agriculture. But what breaks our heart is the following data: 
 A total of 3,32,603 farmers (2,84,008 males and 48,595 females) committed suicide between 1995 and 2018.
